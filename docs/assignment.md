@@ -20,7 +20,7 @@ Wish you all the best and success in getting this assignment done!
 
 ## Assignment
 
-Web Automation: [Amazon](https://www.amazon.in/)
+Web Automation: [AmazonTest](https://www.amazon.in/)
 
 ## Checklist of what we expect from this assignment ?
 
